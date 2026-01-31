@@ -1,7 +1,7 @@
 # Loan-Prediction-Using-Machine-Learning
 This project focuses on building a Machine Learning model to predict loan approval status based on applicant details such as income, education, credit history, loan amount, and other financial factors. The goal is to help financial institutions make data-driven, faster, and more accurate loan approval decisions.
 
-Objectives
+# Objectives
 
 Analyze and preprocess loan application data
 
@@ -13,7 +13,7 @@ Predict whether a loan will be Approved or Rejected
 
 Compare model performance using evaluation metrics
 
-Machine Learning Workflow
+# Machine Learning Workflow
 
 Data Loading
 
@@ -31,7 +31,7 @@ Model Evaluation
 
 Prediction
 
-Dataset Description
+# Dataset Description
 
 The dataset includes the following features:
 
@@ -57,7 +57,7 @@ Property Area
 
 Loan Status (Target Variable)
 
-Algorithms Used
+# Algorithms Used
 
 Logistic Regression
 
@@ -67,7 +67,7 @@ Random Forest Classifier
 
 Model selection is based on accuracy and performance metrics.
 
-Model Evaluation Metrics
+# Model Evaluation Metrics
 
 Accuracy Score
 
@@ -75,18 +75,4 @@ Confusion Matrix
 
 Classification Report
 
-Technologies and Tools
 
-Python
-
-Jupyter Notebook
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
